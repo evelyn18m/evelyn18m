@@ -23,7 +23,7 @@ Soy estudiante de **Desarrollo de software** con experiencia operativa en entorn
 ## 📬 Contacto
 - 📧 [velin18@hotmail.com](mailto:velin18@hotmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/evelyn-morocho)
-- 💼 [Hoja de Vida/PDF](url)
+- 💼 [Hoja de Vida/PDF](ResumeEvelynMorocho.pdf)
 
 ---
 > 🌱 *"El código limpio nace de entender el problema, documentar el proceso e iterar con disciplina."*
